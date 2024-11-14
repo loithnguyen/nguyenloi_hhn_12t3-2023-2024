@@ -1,0 +1,67 @@
+		.phanvanban{ background-color:lightgrey; }
+		.bocucphanvanban1{
+			float: left;
+			border-style: solid;
+			height: auto;
+			width: 70%;
+		}
+		.bocucphanvanban2{
+			float: right;
+			border-style: solid;
+			height: auto;
+			width: 29%;
+		}
+		.phandautien{
+			height: 50px;
+			width: auto;text-align:center;
+			line-height: 50px}
+		a{text-decoration: none; color:darkblue;}
+		.tieude{ 
+			text-align:center;
+			 margin: 20px;}
+		.tieude2{ 
+			color: darkgoldenrod; 
+			text-align: center; 
+			font-size: 24px}
+		.noidung{
+			border-style:double; 
+			padding: 10px; 
+			margin: 8px}
+		.bocucanhvavideo{ 
+			display:flex;
+			}
+		.bocucanhvavideo p{text-align: center;}
+		.anh{ 
+			float:left;
+			 background-color: wheat; 
+			 width: 50%; }
+		.anh img{
+		 width:48%;
+		  height:auto; 
+		  padding:0.6% ; 
+		  float: left;}
+		.video{
+			float:right;
+			width: 50%;
+			background-color: wheat;}
+		.video video{ 
+			width: auto;
+			height: 400px; }
+		.phanbinhluan{
+			border-style:solid;
+			border-color: lightgrey;
+			width: auto; background-color:
+			lightgrey; margin: 10px}
+		.phanbinhluan form{
+			display: block;
+			margin: 20px}
+		.phanbinhluan p{margin: 5px}
+		.nguon{
+			border-style: solid;
+			border-color: lightblue;
+			background-color: lightblue;
+			margin: 10px}
+		.tatca{
+			display: inline-block;
+			border-color:lightgoldenrodyellow;
+			background-image: url("Màu Vàng Hoa Cúc Chúc Mừng Ngày Phụ Nữ 2010 Bài Đăng Facebook .png");};}
